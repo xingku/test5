@@ -17,10 +17,7 @@ public class Servlet_01 implements Servlet {
     @Override
     public void service(ServletRequest servletRequest, ServletResponse servletResponse) throws ServletException, IOException {
 
-        System.out.println("111111111111111111111111111111");
-		 System.out.println("111111111111111111111111111111");
-		  System.out.println("111111111111111111111111111111");
-		   System.out.println("111111111111111111111111111111");
+      
 
 
     }
